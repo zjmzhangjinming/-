@@ -1,0 +1,30 @@
+/*
+* @Author: dell
+* @Date:   2017-08-23 20:42:47
+* @Last Modified by:   dell
+* @Last Modified time: 2017-08-23 22:08:39
+*/
+#box1{
+	width: 100px;
+	height: 300px;
+	background:red;
+	display: none;
+}
+.yellow {
+	background: yellow;
+}
+
+.green {
+	background: green;
+}
+
+.pink {
+	background: pink;
+}
+div{
+	width: 100px;
+	height: 100px;
+	background:red;
+	float: left;
+	margin-right:10px;
+}
